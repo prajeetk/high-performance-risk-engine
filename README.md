@@ -96,4 +96,4 @@ Modern trading firms cannot rely solely on profitable strategies—they must als
 
 ---
 
-This project is part of a larger quantitative trading systems portfolio, alongside a **High-Performance Limit Order Book**, with the goal of exploring the software architecture, performance considerations, and engineering practices behind modern electronic trading systems.
+This project is part of a larger quantitative trading systems portfolio, with the goal of exploring the software architecture, performance considerations, and engineering practices behind modern electronic trading systems.
